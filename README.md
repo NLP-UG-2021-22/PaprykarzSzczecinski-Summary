@@ -1,0 +1,1 @@
+# PaprykarzSzczecinski-Summary
