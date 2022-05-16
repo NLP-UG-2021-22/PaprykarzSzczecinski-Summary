@@ -5,4 +5,6 @@ i więcej
 i więcej
 jeszcze więcej
 
+
 dodaję zmianę w tym konkretnym zdaniu - Lara
+kolejna linia
