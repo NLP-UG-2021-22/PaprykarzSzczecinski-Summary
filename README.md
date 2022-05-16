@@ -4,3 +4,5 @@ Dodaję więcej zmian
 i więcej
 i więcej
 jeszcze więcej
+
+dodaję coś w moim osobistym branchu - Lara 
