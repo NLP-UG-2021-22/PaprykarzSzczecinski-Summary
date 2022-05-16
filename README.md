@@ -4,3 +4,4 @@ Dodaję więcej zmian
 i więcej
 i więcej
 jeszcze więcej
+kolejna linia
