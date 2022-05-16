@@ -5,4 +5,4 @@ i więcej
 i więcej
 jeszcze więcej
 
-dodaję zmianę w tym konkretym zdaniu - Lara
+dodaję zmianę w tym konkretnym zdaniu - Lara
