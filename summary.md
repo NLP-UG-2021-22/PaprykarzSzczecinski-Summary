@@ -27,3 +27,7 @@ The morphology of many of the **Indigenous Languages** seems to be richer than t
 In the case of **Cree languages** words are categorized by **animacy**. It refers to an arbitrary distinction betwwen animate and inanimate objects.
 
 Attention is also paid to the use of **pronouns** - namely, the division into inclusive we ("all of us") and exclusive we ("we but not you"). Moreover, **Cree languages** indicate **proximate** and **obviative** third person, which mark the proximity of the speaker to the object they refer to - both in space and time.
+
+**6.6 Creating new words**
+
+There is a multitude of ways for new words to enter a language. For example, creating a new form, which does not derive from an exisiting form, is called **coining**. Another way for a word to be introduced is to borrow it from another language. However, it is affixation that is considered to be the most **productive** way to create new words. This is followed by **compounding**, which involves merging two free morphemes into a single form. It is also common for existing words to change their meaning thus creating a new item. For instance, _ghost_ can refer to a paranormal object, but also to the action of ignoring someone on social media. Creating **acronyms** and **clipping** are yet another examples of creating new words from alreading existing forms. Lastly, new words can be created by means of **blending**. In the process two lexical items are combined with their bordering parts overlapping. All these processes demonstrate the **generativity** of grammar.
