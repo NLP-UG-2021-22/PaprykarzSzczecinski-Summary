@@ -26,4 +26,4 @@ The morphology of many of the **Indigenous Languages** seems to be richer than t
 
 In the case of **Cree languages** words are categorized by **animacy**. It refers to an arbitrary distinction betwwen animate and inanimate objects.
 
-Attention is also paid to the use of **pronouns** - namely, the division into inclusive we ("all of us") and exclusive we ("we but not you"). Moreover, **Cree languages** indicate **proximate** and **obviative** third person, which makrk the proximity of the speaker to the object they refer to - both in space and time.
+Attention is also paid to the use of **pronouns** - namely, the division into inclusive we ("all of us") and exclusive we ("we but not you"). Moreover, **Cree languages** indicate **proximate** and **obviative** third person, which mark the proximity of the speaker to the object they refer to - both in space and time.
