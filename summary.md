@@ -19,3 +19,11 @@ The first example of inflectional morphology is a **number** on a noun. In Engli
 In the process of **derivation** new words are created by means of adding an affix to a **base**. The meaning of the newly created word is slightly changed despite still being related to the original form. For instance, the addition of the suffix _-er_ to the verb _write_ creates a new word which describes the doer of the action. Drawing on this example, it can be noted that **derivation** often changes the lexical category of the word.
 
 Another important feature of derivation is that it can be performed on a word that has been previously derived itself. In other words, the word _computerize_ is created by adding the suffix _-ize_ to the base _computer_, which has been formed by adding _-er_ to the base _compute_.
+
+**6.5 Inflectional Morphology in Some Indigenous Langauges**
+
+The morphology of many of the **Indigenous Languages** seems to be richer than that of English. For instance, **Inuktitut**, spoken by 40 000 people in the Artic region, uses suffixes to indicate **dual** number of objects being refered to. This can be exemplified in the word _matuuk_ (two doors), which is created by the addition of _-uk_ to the **base** _matu_ (a door). This can also be noticed in the morphology of verbs.
+
+In the case of **Cree languages** words are categorized by **animacy**. It refers to an arbitrary distinction betwwen animate and inanimate objects.
+
+Attention is also paid to the use of **pronouns** - namely, the division into inclusive we ("all of us") and exclusive we ("we but not you"). Moreover, **Cree languages** indicate **proximate** and **obviative** third person, which makrk the proximity of the speaker to the object they refer to - both in space and time.
