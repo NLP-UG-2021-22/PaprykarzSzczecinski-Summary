@@ -1,10 +1,3 @@
 # PaprykarzSzczecinski-Summary
-Dodaję własny tekst w tym momencie
-Dodaję więcej zmian
-i więcej
-i więcej
-jeszcze więcej
-
-
-dodaję zmianę w tym konkretnym zdaniu - Lara
-kolejna linia
+This project aims to demonstrate the process of working on a joined repository (using Visual Code and Git Bash) by summarising chapter 5 and 6 from _Essentials of Linguistics_ by Catherine Anderson.
+It was completed by Oliwia Kołecka, Lara Lejderman and Wiktoria Szwarc. 
