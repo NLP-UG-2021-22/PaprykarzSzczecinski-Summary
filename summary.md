@@ -1,3 +1,21 @@
+##5.3 [Adults Learning L2 Phonotactics](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/5-3-adults-learning-l2-phonotactics/)
+
+Unfortunately, phonemic contrasts are not the only obstacle making second language acquisition challenging for an adult. There are also **phonetic inventory** and **phonotactic constraints** which are parts of the mental grammar. 
+
+**Phonetic inventory** is the set of segments that are present in the grammar (number of consonants and vowels). For instance, English language has 25 consonants, and 14 vowels while in contrast, language spoken in Hawaiian islands has only 8 consonants and 5 vowels. There are languages that have these numbers hightened as well. 
+
+**Phonotactic constraints** are mental grammar restrictions on which sounds can appear in which positions and what syllable structures can be used. 
+
+All the needed adaptations are a part of learning an L2, and they come from already established grammatical structures and constraints of our L1.  
+
+##5.4 [Attitudes about Accents](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/5-3-attitudes-about-accents/)
+
+Everyone has an accent. But *why* L2 speakers have an accent when speaking L1 language? The accent of L2 speaker is heavily influenced by their mental grammar and restrictions of their L1 language. 
+
+Linguistics does not rate or rank languages or accents - but some people from L2 countries speaking L1 language could have experienced **stigma**. If an accent is stigmatized, that means people's attitudes are automatically negative, and could have some sort of expectations about that accent. In places where English is widely spoken, those who aren't native speakers or who learned English as adults are frequently stigmatized.
+
+The longer we listen to someone, the more we grasp what they're saying: this is known as **perceptual adaptation**, meaning that the more familiarity we have with their voice or accent, the better we will understand what they are saying. Also listening to wide array of accents makes us more prone to understanding a person with completely new accent right away.
+
 **6.1 Words and morphemes**
 
 Words are **free forms that have meaning**. There are three main reasons why they are considered free. Firstly, they can appear in **isolation**, meaning that in some contexts a single word can be a whole, perfectly grammatical utterance. Secondly, they are **moveable** – they can occupy different positions in a sentence. Lastly, they are **inseparable**, which means that no other pieces can be randomly put inside them. However, there are smaller forms than words that contain meaning – **morphemes**.
