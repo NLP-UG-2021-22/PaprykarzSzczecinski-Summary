@@ -1,6 +1,6 @@
-#Chapter 5
+# Chapter 5
 
-##5.1 [How Babies Learn the Phoneme Categories of Their Language](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/5-2-how-babies-learn-the-phoneme-categories-of-their-language/)
+## 5.1 [How Babies Learn the Phoneme Categories of Their Language](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/5-2-how-babies-learn-the-phoneme-categories-of-their-language/)
 
 Each language's phonology is unique. For instance both aspirated *[ph]* and unaspirated *[p]* are allophones of the same phoneme in English. However, in Thai, these two parts are opposed and represent two distinct phonemes. The phonetic difference is exactly the same - the dicrepancy is within the mental grammar of native speakers in each of these languages. This proves to be an obstacle with second language acquisition. 
 
@@ -8,7 +8,7 @@ However it is different when the learner is a baby. Babies learn phonology very 
 
 By the time a child is one year old however, they lose the ability to understand the difference, being constantly surrounded only by their mother tongue, because their mental grammar already formed phoneme categories distinct to their native language.
 
-##5.2 [How Adults Learn Phoneme Categories in a New Language](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/5-3-how-adults-learn-the-phoneme-categories-in-a-new-language/)
+## 5.2 [How Adults Learn Phoneme Categories in a New Language](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/5-3-how-adults-learn-the-phoneme-categories-in-a-new-language/)
 
 Learning a new language as an adult might be challenging. As established in the previous subchapter babies have their phoneme categories formed when they are merely 12 months old. Using term **L1** for the native language and **L2** as any language an adult would learn later on, Catherine Best proposed a theory about phoneme contrast between 2 languages, and it revolves around the concepts 
 of phonemes and allophones. 
@@ -16,7 +16,7 @@ of phonemes and allophones.
 According to Best, there are two types of phoneme contrasts in L2 - one that maps onto phoneme contrast of L1, or is completely new,making it easy to grasp, but also one that overlaps with L1, one phoneme of L1 broken into two meaningful phonemes in L2. It could take a lifetime of learning to understand the concept, but because of the mental grammar in L1, it will never be as meaningful, even when 
 understood. 
 
-##5.3 [Adults Learning L2 Phonotactics](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/5-3-adults-learning-l2-phonotactics/)
+## 5.3 [Adults Learning L2 Phonotactics](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/5-3-adults-learning-l2-phonotactics/)
 
 Unfortunately, phonemic contrasts are not the only obstacle making second language acquisition challenging for an adult. There are also **phonetic inventory** and **phonotactic constraints** which are parts of the mental grammar. 
 
@@ -26,7 +26,7 @@ Unfortunately, phonemic contrasts are not the only obstacle making second langua
 
 All the needed adaptations are a part of learning an L2, and they come from already established grammatical structures and constraints of our L1.  
 
-##5.4 [Attitudes about Accents](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/5-3-attitudes-about-accents/)
+## 5.4 [Attitudes about Accents](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/5-3-attitudes-about-accents/)
 
 Everyone has an accent. But *why* L2 speakers have an accent when speaking L1 language? The accent of L2 speaker is heavily influenced by their mental grammar and restrictions of their L1 language. 
 
