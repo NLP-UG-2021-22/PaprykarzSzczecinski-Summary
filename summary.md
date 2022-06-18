@@ -4,23 +4,21 @@
 
 Each language's phonology is unique. For instance both aspirated *[ph]* and unaspirated *[p]* are allophones of the same phoneme in English. However, in Thai, these two parts are opposed and represent two distinct phonemes. The phonetic difference is exactly the same - the dicrepancy is within the mental grammar of native speakers in each of these languages. This proves to be an obstacle with second language acquisition. 
 
-However it is different when the learner is a baby. Babies learn phonology very early, earlier even than actual words. By using a habituation technique we can observe that they grasp the difference between phonemes. The technique is conducted by using an instrument called a pressure transducer, and when its connected to  a pacifier, the measurements of their sucking strength can be taken. When interested in something they suck harder, but if theres the same sound is played continuously they lose interest. 
+However it is different when the learner is a baby. Babies learn phonology very early, earlier even than actual words. By using a habituation technique we can observe that they grasp the difference between phonemes. The technique is conducted by using an instrument called a pressure transducer, and when its connected to a pacifier, the measurements of their sucking strength can be taken. When interested in something they suck harder, but if the same sound is played continuously they lose interest. 
 
-By the time a child is one year old however, they lose the ability to understand the difference, being constantly surrounded only by their mother tongue, because their mental grammar already formed phoneme categories distinct to their native language.
+By the time a child is one year old however, they lose the ability to understand the difference, being constantly surrounded only by their mother tongue, their mental grammar already formed phoneme categories distinct to their native language.
 
 ## 5.2 [How Adults Learn Phoneme Categories in a New Language](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/5-3-how-adults-learn-the-phoneme-categories-in-a-new-language/)
 
-Learning a new language as an adult might be challenging. As established in the previous subchapter babies have their phoneme categories formed when they are merely 12 months old. Using term **L1** for the native language and **L2** as any language an adult would learn later on, Catherine Best proposed a theory about phoneme contrast between 2 languages, and it revolves around the concepts 
-of phonemes and allophones. 
+Learning a new language as an adult might be challenging. As established in the previous subchapter babies have their phoneme categories formed when they are merely 12 months old. Using term **L1** for the native language and **L2** for any language an adult would learn later on, Catherine Best proposed a theory about phoneme contrast between 2 languages, and it revolves around the concepts of phonemes and allophones. 
 
-According to Best, there are two types of phoneme contrasts in L2 - one that maps onto phoneme contrast of L1, or is completely new,making it easy to grasp, but also one that overlaps with L1, one phoneme of L1 broken into two meaningful phonemes in L2. It could take a lifetime of learning to understand the concept, but because of the mental grammar in L1, it will never be as meaningful, even when 
-understood. 
+According to Best, there are two types of phoneme contrasts in L2 - one that maps onto phoneme contrast of L1, or is completely new, making it easy to grasp, and the other one that overlaps with L1, one phoneme of L1 broken into two meaningful phonemes in L2. It could take a lifetime of learning to understand the concept, but because of the mental grammar in L1, it will never be as meaningful as for L2 native speaker, even when understood. 
 
 ## 5.3 [Adults Learning L2 Phonotactics](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/5-3-adults-learning-l2-phonotactics/)
 
 Unfortunately, phonemic contrasts are not the only obstacle making second language acquisition challenging for an adult. There are also **phonetic inventory** and **phonotactic constraints** which are parts of the mental grammar. 
 
-**Phonetic inventory** is the set of segments that are present in the grammar (number of consonants and vowels). For instance, English language has 25 consonants, and 14 vowels while in contrast, language spoken in Hawaiian islands has only 8 consonants and 5 vowels. There are languages that have these numbers hightened as well. 
+**Phonetic inventory** is the set of segments that are present in the grammar (number of consonants and vowels). For instance, English language has 25 consonants and 14 vowels while in contrast, language spoken in Hawaiian islands has only 8 consonants and 5 vowels. There are languages that have these numbers higher than English as well. 
 
 **Phonotactic constraints** are mental grammar restrictions on which sounds can appear in which positions and what syllable structures can be used. 
 
@@ -30,9 +28,9 @@ All the needed adaptations are a part of learning an L2, and they come from alre
 
 Everyone has an accent. But *why* L2 speakers have an accent when speaking L1 language? The accent of L2 speaker is heavily influenced by their mental grammar and restrictions of their L1 language. 
 
-Linguistics does not rate or rank languages or accents - but some people from L2 countries speaking L1 language could have experienced **stigma**. If an accent is stigmatized, that means people's attitudes are automatically negative, and could have some sort of expectations about that accent. In places where English is widely spoken, those who aren't native speakers or who learned English as adults are frequently stigmatized.
+Linguistics does not rate or rank languages or accents - but some people from L2 countries speaking L1 language could have experienced **stigma**. If an accent is stigmatized, that means people's attitudes are automatically negative, and they could have some sort of expectations about that accent. In places where English is widely spoken, those who aren't native speakers and learned English as adults are frequently stigmatized.
 
-The longer we listen to someone, the more we grasp what they're saying: this is known as **perceptual adaptation**, meaning that the more familiarity we have with their voice or accent, the better we will understand what they are saying. Also listening to wide array of accents makes us more prone to understanding a person with completely new accent right away.
+The longer we listen to someone, the more we grasp what they're saying: this is known as **perceptual adaptation**, meaning that the more familiarity we have with their voice or accent, the better we will understand them. Also listening to wide array of accents makes us more prone to understanding a person with completely new accent right away.
 
 **6.1 Words and morphemes**
 
